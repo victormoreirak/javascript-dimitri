@@ -21,11 +21,15 @@ var a = 5; //com "var" é possível reatribuir valores, com let e const não
 alert(c);*/
 
 // DECLARAÇÃO DE VARIÁVEIS
-var nome, sobrenome, nomeCompleto;
+var nome, sobrenome, nomeCompleto, idade, soma;
 
 // ATRIBUIÇÃO DOS VALORES
-nome = "Dimitri";
-sobrenome = "Teixeira";
-nomeCompleto = nome + sobrenome;
+nome = "Victor";
+sobrenome = "Moreira";
+idade = 30;
+nomeCompleto = nome +" "+ sobrenome;
+
+soma = idade + 10;
+pessoa = nome + " " + soma;
 
 document.getElementById("texto").innerHTML = nomeCompleto;
