@@ -13,4 +13,21 @@ A lista[1] (lista na posição 1) vai conter o valor "feijão".
 
 E assim por diante.
 
+
+
+const lista = ["arroz", "feijão", "macarrão", "leite"];
+
+const pessoa = ["Victor", "Moreira", 27]; //array
+pessoa[0];
+
+
+const pessoa = {nome:"Victor", sobrenome:"Moreira", idade: 27} // objeto
+pessoa.nome;
 */
+
+const pessoa = ["Victor", "Moreira", 27]; //array
+alert(pessoa[pessoa.length - 1]); // para descobrir o último item da lista
+pessoa.push("Brasileiro"); // para adicionar mais um item
+console.log(pessoa);
+
+alert(Array.isArray(pessoa)); // para saber se o variável é um array (matriz), nesse caso retornaria true
