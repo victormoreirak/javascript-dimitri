@@ -14,7 +14,7 @@ São separados em 6 "categorias":
 5) Operador Condicional (Ternário)
 6) Operadores Lógicos
 
-
+*/
 1) Operadores Aritméticos (matématicos)
 
 var valor1, valor2, total;
@@ -104,4 +104,3 @@ eleitor = (idade < 18) ? "Não é eleitor" : "Sim, é eleitor";
 resultado = !(idade === 65 || idade === 72); // retorna true, senão false
 
 alert(resultado);
-*/

@@ -1,6 +1,8 @@
 /* 
 Vamos entender variáveis
 
+Variáveis são "recipientes" onde podemos armazenar informações que podem variar, ou seja, podem ter qualquer tipo de valor.
+
 No javascript temos 4 palavras-chaves para declarar variáveis:
 
 -> var

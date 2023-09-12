@@ -1,6 +1,6 @@
 /*
 
-Uma função é um bloco de código projeto pra executar uma tarefa específica.
+Uma função é um bloco de código projetado pra executar uma tarefa específica.
 
 é como uma pequena "fábrica" onde você faz uma entrada e ele te dá uma saída.
 
