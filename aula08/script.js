@@ -50,7 +50,3 @@ var x = paraCelsius(77);
 alert("A temperatura é de " + x + " ºC")
 
 */
-
-function minhaFuncao() {
-    var x = 2;
-}
