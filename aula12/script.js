@@ -36,7 +36,7 @@ alert(Array.isArray(pessoa)); // para saber se o variável é um array (matriz),
 
 const pessoa = ["Victor", "Moreira", 27]; //array
 pessoa.pop(); // para remover o último item da lista
-pessoa.push("Qualauqer coisa"); // para adicionar o item a lista
+pessoa.push("Qualquer coisa"); // para adicionar o item a lista
 pessoa.shift(); // para remover o primeiro item da lista
 pessoa.unshift("Bonitão") // para adicionar o item ao primeiro campo
 
